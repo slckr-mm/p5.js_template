@@ -3,7 +3,7 @@
 ## Useful VS Code Extensions
  - LivePreview (Microsoft): preview browser inside workspace
 
-The following has already been done for this repo (see sketch.js).
+The following has already been done for this repo (see sketch.js):
 
 ### How to setup p5 for VS Code (autocomplete & IntelliSense)
 Put the TypeSctipt definition file into your project and reference them inside your sketch liek this:
