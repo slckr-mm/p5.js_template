@@ -4,7 +4,6 @@
 
 // vanilla JS
 console.log('~ sketch.js ~');
-let poo = 0;
 let slider;
 
 // p5 code starts here
