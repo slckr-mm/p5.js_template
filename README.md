@@ -6,7 +6,7 @@
 The following has already been done for this repo (see sketch.js):
 
 ### How to setup p5 for VS Code (autocomplete & IntelliSense)
-Put the TypeSctipt definition file into your project and reference them inside your sketch like this:
+Put the TypeScript definition file into your project and reference them inside your sketch like this:
 
 ```js
 /// <reference path="./TSDef/p5.global-mode.d.ts" />
