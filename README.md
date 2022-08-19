@@ -1,8 +1,9 @@
 # JavaScript template (including p5.js)
 
-## VS Code Extensions
+## Useful VS Code Extensions
  - LivePreview (Microsoft): preview browser inside workspace
- - JavaScript REPL: used for showing JS console output
+
+The following has already been done for this repo (see sketch.js).
 
 ### How to setup p5 for VS Code (autocomplete & IntelliSense)
 Put the TypeSctipt definition file into your project and reference them inside your sketch liek this:
