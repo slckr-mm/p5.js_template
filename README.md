@@ -15,5 +15,5 @@ Put the TypeScript definition file into your project and reference them inside y
 
 <https://breaksome.tech/p5js-editor-how-to-set-up-visual-studio-code/>
 
-***Note***
+***Note:***
 The minified version of p5.js is included in this repo, but only p5.js gets used. You can choose your prefered version and delete the other one.
