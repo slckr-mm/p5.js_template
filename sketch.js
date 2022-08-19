@@ -20,6 +20,6 @@ function draw() {
   rectMode(CENTER);
   stroke('rgb(0,255,0)');
   strokeWeight(5);
-  line(20,20,20,20+val);
+  line(20, 20, 20, 20 + val);
   noFill();
 }
